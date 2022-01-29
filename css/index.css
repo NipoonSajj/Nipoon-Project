@@ -13,7 +13,12 @@ body {
 
   }
   p {
-    color: white;
+    color: rgb(219, 150, 46);
+    font-family: verdana;
+    font-size: 20px;
+  }
+  footer {
+    color: rgb(219, 150, 46);
     font-family: verdana;
     font-size: 20px;
   }
