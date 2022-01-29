@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(66, 28, 28);
+  }
+  
+  h1 {
+    color: rgb(219, 150, 46);
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgb(219, 150, 46);
+    text-align: left;
+
+  }
+  p {
+    color: white;
+    font-family: verdana;
+    font-size: 20px;
+  }
